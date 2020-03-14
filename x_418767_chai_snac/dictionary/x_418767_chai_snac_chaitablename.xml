@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="chaiTableName" max_length="40" name="x_418767_chai_snac_chaitablename" type="collection">
+        <element label="Name of Snacks" max_length="40" name="name_of_snacks" type="string"/>
+    </element>
+</database>

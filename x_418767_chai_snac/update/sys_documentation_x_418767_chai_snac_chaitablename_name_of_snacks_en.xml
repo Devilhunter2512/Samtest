@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="name_of_snacks" label="Name of Snacks" language="en" table="x_418767_chai_snac_chaitablename">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>name_of_snacks</element>
+            <help/>
+            <hint/>
+            <label>Name of Snacks</label>
+            <language>en</language>
+            <name>x_418767_chai_snac_chaitablename</name>
+            <plural>Name of Snacks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-14 12:06:57</sys_created_on>
+            <sys_id>ec444e692f630010b42e1e282799b6b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Name of Snacks</sys_name>
+            <sys_package display_value="Chai Snacks" source="x_418767_chai_snac">3723ce292f630010b42e1e282799b65d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Chai Snacks">3723ce292f630010b42e1e282799b65d</sys_scope>
+            <sys_update_name>sys_documentation_x_418767_chai_snac_chaitablename_name_of_snacks_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-14 12:06:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
